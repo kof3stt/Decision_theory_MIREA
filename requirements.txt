@@ -1,0 +1,4 @@
+graphviz==0.20.3
+numpy==2.2.1
+pandas==2.2.3
+sympy==1.13.3
